@@ -1,0 +1,6 @@
+devel_space: /home/pcampolucci/Desktop/darknet_ros/darknet_ros/devel
+install: false
+install_space: /home/pcampolucci/Desktop/darknet_ros/darknet_ros/install
+profile: default
+source_space: /home/pcampolucci/Desktop/darknet_ros/darknet_ros/src
+workspace: /home/pcampolucci/Desktop/darknet_ros/darknet_ros
